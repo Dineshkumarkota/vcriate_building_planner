@@ -21,11 +21,11 @@ This app includes a canvas for drawing, a toolbar for switching tools, and backe
 
 
 
-![Drawing](../Screenshot%202025-06-21%20155239.png)  
-![Drawing](../Screenshot%202025-06-21%20155341.png)  
-![Annotations](../Screenshot%202025-06-21%20155356.png)  
-![Save Alert](../Screenshot%202025-06-21%20155411.png)
-![load](../Screenshot%202025-06-21%20155429.png)
+![Drawing](./Screenshot%202025-06-21%20155239.png)  
+![Drawing](./Screenshot%202025-06-21%20155341.png)  
+![Annotations](./Screenshot%202025-06-21%20155356.png)  
+![Save Alert](./Screenshot%202025-06-21%20155411.png)
+![load](./Screenshot%202025-06-21%20155429.png)
 
 ---
 
